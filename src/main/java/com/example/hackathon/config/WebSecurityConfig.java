@@ -1,4 +1,4 @@
-package com.example.sweater.config;
+package com.example.hackathon.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;

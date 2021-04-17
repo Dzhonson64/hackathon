@@ -1,4 +1,4 @@
-package com.example.sweater.controller;
+package com.example.hackathon.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
